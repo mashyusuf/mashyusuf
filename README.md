@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer from Bangladesh, weaving beauty and simplicity into the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="mashyusuf" /> </p>
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 <div align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
   <a  href="https://github.com/SP-XD">
