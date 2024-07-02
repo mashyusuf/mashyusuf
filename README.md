@@ -17,9 +17,11 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mashyusuf&theme=react&hide_border=true&background=0D1117&stroke=000000&fire=EA61F7&sideLabels=00ACEE&currStreakNum=EA61F7&ring=EA61F7&currStreakLabel=EA61F7&sideNums=00ACEE" />
 </p>
 
-<div align="center">
+
+ <div align="center">
   <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 </div>
+
 
 
 
