@@ -2,9 +2,11 @@
 <h3 align="center">Full Stack Web Developer from Bangladesh, weaving beauty and simplicity into the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="mashyusuf" /> </p>
-
+  <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 <div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+  
+  <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
   <a  href="https://github.com/SP-XD">
   <h2>About Me</h2>
   <p>I'm a Full Stack Web Developer from Bangladesh, dedicated to learning and improving my skills. I code 5-6 hours daily and enjoy exploring new languages and technologies.</p>
